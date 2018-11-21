@@ -408,9 +408,9 @@ ngx-bootstrap/utils
 
 ngx-bootstrap/carousel
 
-@angular/material/toolbar
-
 @angular/material/icon
+
+@angular/material/toolbar
 
 core-js
 MIT
