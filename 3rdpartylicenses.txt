@@ -353,6 +353,16 @@ MIT
 @angular/router
 MIT
 
+ngx-bootstrap/utils
+
+ngx-bootstrap/carousel
+
+@angular/forms
+MIT
+
+@angular/animations
+MIT
+
 @angular/cdk
 MIT
 The MIT License
@@ -378,14 +388,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/grid-list
-
-@angular/forms
-MIT
-
-@angular/animations
-MIT
-
 @angular/material/form-field
 
 @angular/material/button
@@ -403,10 +405,6 @@ MIT
 @angular/material/select
 
 @angular/material/paginator
-
-ngx-bootstrap/utils
-
-ngx-bootstrap/carousel
 
 @angular/material/icon
 
